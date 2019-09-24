@@ -64,10 +64,11 @@ The application target is each household as a unit. Each household can access th
 - Create personal shopping list
 - Display personal shopping list
 - Edit personal shopping list
-- Display master list view
-- Order master list by
-- Select items purchased
-- Enter items’ prices
+- Display Master List view
+	- Master list combines personal lists of all users in the household
+	- Master list displays priority of items, items’ details and quantity as well as whom it belongs to
+- Order Master List items by priority
+- Select items purchased and Enter items’ prices
 - Calculate the total price + tax
 
   
