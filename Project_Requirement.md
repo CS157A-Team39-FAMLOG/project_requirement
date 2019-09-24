@@ -56,12 +56,12 @@ The motivation is the facilitation of household shopping by giving all users und
 &nbsp;
 
 ###  *Descriptions*
-The application target is each household as a unit. Each household can access the system by logging in with just one account. Each household may have multiple users as individuals. Each user can choose to access between personal list and master list. Each user has their own wanted shopping list of items. In the personal list, an user can add his/her wanted items into the shopping list. The user can also edit his/her items in their own shopping list (remove items/edit notes/edit name). In the master list, the user can see the total shopping items of everyone in the particular household in descending priority order. In the master list, the person who purchased the items can select and enter the price they bought the items for. The application will calculate the total price of the items bought (the selected items will be automatically removed from the list). User can log out of the system
+The application targets each household as a unit. Each household can access the system by logging in with just one account. Each household may have multiple users as individuals. Each user can choose to access between personal list and master list. Each user has their own wanted shopping list of items. In the personal list, user can add his/her wanted items into the shopping list. User can also edit his/her items in their own shopping list (remove items/edit notes/edit name). In the master list, user can see the total shopping items of everyone in the house in descending priority order. In the master list, the person who purchased the items can select and enter the price they bought the items for. The application will calculate the total price of the items bought (the selected items will be automatically removed from the list). User can log out of the system
 
 ###  *Functions*
 - Creating an account
 	- Each household only needs to sign up for one account
-	- Completion of the sign up form is necessary to successfully create an account
+	- Completion of the sign-up form is necessary to successfully create an account
 - Creating users
 	- In each household account, user can add their name if its non-existent within that account
 - Create personal shopping list
@@ -79,7 +79,8 @@ The application target is each household as a unit. Each household can access th
 - Select items purchased and Enter items’ prices
 	- In the Master List, user selects all items that are bought and enters the prices
 	- The items selected as purchased will be deleted from database
-- Calculate the total price + tax
+- Calculate the total price plus tax
+	- The total price including the tax implied will automatically be calculated once the user has finished his/her selection
 
   
 &emsp;
