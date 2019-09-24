@@ -35,7 +35,7 @@ Team 39
 # System Environment
 &nbsp;
 
-![3-tier diagram](https://github.com/CS157A-Team39-FAMLOG/project_proposal/blob/master/structured_diagram1.png)
+![3-tier diagram](https://github.com/CS157A-Team39-FAMLOG/project_requirement/blob/master/structured_diagram_update.png)
 
                                       Structured diagram of the 3-tier architecture
 &emsp;
