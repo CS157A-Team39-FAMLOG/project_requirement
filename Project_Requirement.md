@@ -71,5 +71,15 @@ The application target each household as a unit. Each household can access the s
 &emsp;
 
 # Non-functional Issues
-&nbsp;
+###  *Graphical User Interface*
+- We plan to use Adobe XD to design the website interface and Adobe Photoshop to create necessary graphics. The interface should be minimal and easy to navigate, with clear selections to perform tasks. Firstly, there should be a login page, then a user selection. The user could then choose between Master List and Personal Shopping List, and the rest of the functions should be accessible through those screens.
+
+
+###  *Security*
+- Each household will have an account of its own. For more enhanced security, we might implement a passcode system for the users within that account, to make sure there is no misuse among users.
+
+
+###  *Access Control*
+- Our website should be available 24/7 on any browser, as long as users have access to the internet, and have also made an account for their household. Users of different accounts should also be able to access our website simultaneously without any interruptions while the other users are online. Users are also only allowed to alter information within their own household/user account. 
+
 
