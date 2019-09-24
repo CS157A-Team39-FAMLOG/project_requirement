@@ -29,6 +29,9 @@ Team 39
 # Project Overview
 &nbsp;
 
+The goal of this project is to build a web application that will allow households to maintain a centralized shopping list based upon the aggregated, separate lists created by the individuals.
+The motivation is the facilitation of household shopping by giving all users under a household a view of the entire prioritized household shopping list while sustaining the personal lists. It will aid both the household as a whole and the individual user in the overall process of shopping for necessities and for groceries when others might be busy. The stakeholders of this product are the households with a number of users greater than or equalled to two that utilize this application. All those involved in the development of the project, such as the engineers and project managers, are also stakeholders. For this particular project, the application domain will be strictly maintained to the scope of a household. Many people have extraordinarily busy schedules, where even finding time to shop is difficult. The question we posed was why not have a list where a family or group of co-inhabitants have the ability to shop for others when they are out. The benefits to the users will be the ability for the individual user to view and to purchase items on the master list for others when they may already be shopping. The traditional personal shopping list will also be maintained should the user just necessitate their own shopping list. 
+
 
 &emsp;
 
